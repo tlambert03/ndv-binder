@@ -1,2 +1,7 @@
 libegl1
 libgles2-mesa-dev
+
+libegl1-mesa-dev
+libgl1-mesa-dri
+libxcb-xfixes0-dev
+mesa-vulkan-drivers
