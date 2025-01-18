@@ -1,1 +1,1 @@
-ndv[jupyter,vispy,pygfx]
+ndv[jupyter,pygfx]
