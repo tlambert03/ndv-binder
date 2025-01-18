@@ -1,2 +1,2 @@
-ndv[jupyter,vispy]
+ndv[jupyter,vispy,pygfx]
 imageio[tifffile]
