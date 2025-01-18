@@ -1,7 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - python ==3.12
+  - python ==3.12.5
   - ndv ==0.2.1
   - jupyter ==1.1.1
   - jupyter-rfb ==0.4.4
